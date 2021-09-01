@@ -1,3 +1,3 @@
 <?php
-echo "i am testing now";
+echo "i am testing nowa";
 ?>
